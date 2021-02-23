@@ -1,7 +1,7 @@
 name: hello
 on:
   push:
-  workflow_distpach:
+  workflow_dispatch:
 jobs:
   hello:
     runs-on: ubuntu-latest
